@@ -1,0 +1,77 @@
+body {
+    align-items: center;
+    background : linear-gradient(320deg,#eb92be,#ffef78,#63c9b4)
+}
+
+header {
+    color: whitesmoke;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    border-top: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-left: solid black;
+    background-color: tomato;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+h1 { 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.weekdays {
+    margin: 0 ;
+    background-color: #eee;
+    padding: 10px 0 ;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    border: solid black;
+}
+
+.weekdays li {
+    display: inline-block;
+    background-color: whitesmoke;
+    color: #666;
+    font-size: 15px;
+    width: 13.6%;
+    
+}
+
+.numberdays {
+    background: #eee;
+    color: black;
+    padding: 10px 0 ;
+    margin-left:  200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    border: solid black;
+
+}
+
+.numberdays li {
+    display: inline-block;
+    list-style-type : none;
+    width: 13.6%;
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 5px;
+
+
+}
+
+#birthday {
+    background-color: tomato;
+    color: whitesmoke;
+    border: solid black;
+
+}
