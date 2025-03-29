@@ -1,6 +1,7 @@
 body {
     align-items: center;
-    background : linear-gradient(320deg,#eb92be,#ffef78,#63c9b4)
+    background : linear-gradient(320deg,#eb92be,#ffef78,#63c9b4);
+    height : 100vh;
 }
 
 header {
